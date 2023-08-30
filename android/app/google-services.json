@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334302310010",
+    "project_id": "sowaan-food-app",
+    "storage_bucket": "sowaan-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334302310010:android:14be00078f2f491c4095c3",
+        "android_client_info": {
+          "package_name": "com.sowaanfoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334302310010-3tkbo7djge3ebce4fsghg93ooua200n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sowaanfoodapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "334302310010-l2t0qg223264g86vn4kdjc1trfs812fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-616sdkKL9GKJZqJkOlpALWR10dy5uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334302310010-l2t0qg223264g86vn4kdjc1trfs812fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
